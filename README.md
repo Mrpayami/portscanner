@@ -1,7 +1,9 @@
 # portscanner
 ## Portscanner netwinos
-### https://netwinos.com
+# Run code in Run Mode in NetWinOS
 
+### https://netwinos.com
+![Screenshot 2024-10-27 202547](https://github.com/user-attachments/assets/f540662a-cfde-4315-a3af-5b4b74d6a857)
 
 This is a Windows Batch script that provides a simple menu interface for managing network ports. Below is a breakdown of its components and functionalities:
 
