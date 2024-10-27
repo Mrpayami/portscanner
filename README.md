@@ -1,6 +1,6 @@
 # portscanner
 ## Portscanner netwinos
-## Run code in Windows+Run and Type port-sc in NetWinOS
+## Run code in Windows+R run mode and Type port-sc in NetWinOS
 
 ### https://netwinos.com
 ![Screenshot 2024-10-27 202547](https://github.com/user-attachments/assets/f540662a-cfde-4315-a3af-5b4b74d6a857)
